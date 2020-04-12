@@ -3,4 +3,6 @@ Welcome to telusko kitchen
 
 kheer
 
-pasta
+pasta 
+
+chicken fry
